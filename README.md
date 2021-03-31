@@ -1,4 +1,5 @@
 # About
+#### Project authors: Steve Janco, John Joyce  
 
 This is a simple analytics project examining traffic collisions in New York City. It loads data about car crashes from the [NYC Open Data's Crashes dataset](https://dev.socrata.com/foundry/data.cityofnewyork.us/h9gi-nx95) via API and weather data from the [NOAA Climate Data Online API](https://www.ncdc.noaa.gov/cdo-web/webservices/v2).  
 
