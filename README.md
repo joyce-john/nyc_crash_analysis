@@ -1,6 +1,6 @@
 # About
 
-This is a simple analytics project using the [NYC Open Data's Crashes dataset](https://dev.socrata.com/foundry/data.cityofnewyork.us/h9gi-nx95) via API and weather data from the [NOAA Climate Data Online API](https://www.ncdc.noaa.gov/cdo-web/webservices/v2).   
+This is a simple analytics project examining traffic collisions in New York City. It loads data about car crashes from the [NYC Open Data's Crashes dataset](https://dev.socrata.com/foundry/data.cityofnewyork.us/h9gi-nx95) via API and weather data from the [NOAA Climate Data Online API](https://www.ncdc.noaa.gov/cdo-web/webservices/v2).  
 
 There is no local data loading. For the crashes, we only request data from 2019. For weather data, we get one year of precipitation records from a weather station near LaGuardia Airport - [GHCND:USW00014732](/images/weather_station.jpg?raw=true)  
 
@@ -21,7 +21,7 @@ You'll also need to make this a **trusted notebook** to see the embedded maps. I
 
 # API Keys
 
-API keys for NYC Open Data and NOAA are read from a folder called *api_keys/api_key_nyc_open_data.txt* and *api_key_noaa.txt*, respectively.  
+API keys for NYC Open Data and NOAA are read from *api_keys/api_key_nyc_open_data.txt* and *api_keys/api_key_noaa.txt*, respectively.  
 
 If you have api_keys.zip, extract it to a folder called api_keys in the same directory as the notebook.
 
