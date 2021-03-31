@@ -2,7 +2,7 @@
 
 This is a simple analytics project using the [NYC Open Data's Crashes dataset](https://dev.socrata.com/foundry/data.cityofnewyork.us/h9gi-nx95) via API and weather data from the [NOAA Climate Data Online API](https://www.ncdc.noaa.gov/cdo-web/webservices/v2).   
 
-There is no local data loading. For the crashes, we only request data from 2019. For weather data, we get one year of precipitation records from a weather station near LaGuardia Airport - [GHCND:USW00014732](/images/weather_station.jpg)  
+There is no local data loading. For the crashes, we only request data from 2019. For weather data, we get one year of precipitation records from a weather station near LaGuardia Airport - [GHCND:USW00014732](/images/weather_station.jpg?raw=true)  
 
 We ask some simple questions, such as:
 * Does precipitation affect traffic safety?  
