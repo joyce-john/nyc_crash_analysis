@@ -21,9 +21,9 @@ You'll also need to make this a **trusted notebook** to see the embedded maps. I
 
 # API Keys
 
-API keys for NYC Open Data and NOAA are read from *api_keys/api_key_nyc_open_data.txt* and *api_keys/api_key_noaa.txt*, respectively.  
+API keys for NYC Open Data and NOAA are read locally from *api_keys/api_key_nyc_open_data.txt* and *api_keys/api_key_noaa.txt*, respectively.  
 
-If you have api_keys.zip, extract it to a folder called api_keys in the same directory as the notebook.
+If you have api_keys.zip, extract it to a folder called api_keys in the same directory as the notebook.   
 
 # Sample Visuals
 
